@@ -4,4 +4,4 @@ Nele o usuário pode adivinhar entre Japão, França, Coreia do Sul, Alemanha e 
 
 #Integrantes
 - João Dário Pamplona Arruda
-- Lucas Augusto
+- Lucas Augusto Souza da Silva
